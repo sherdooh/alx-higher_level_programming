@@ -1,2 +1,1 @@
-0x03-python-data_structures
 0x13-javascript_objects_scopes_closures
